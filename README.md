@@ -1,4 +1,5 @@
 # hello-world
 My first repository
 
-Commit this branch
+This repository was used to learn the basics of Github
+
